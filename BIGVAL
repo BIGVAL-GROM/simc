@@ -1,0 +1,91 @@
+# Бигвал - Arms - 2023-01-15 19:30 - EU/Grom
+# SimC Addon 10.0.2-04
+# WoW 10.0.2.47213, TOC 100002
+# Requires SimulationCraft 1000-01 or newer
+
+warrior="Бигвал"
+level=70
+race=tauren
+region=eu
+server=grom
+role=attack
+professions=blacksmithing=73/jewelcrafting=100
+spec=arms
+
+talents=BcEAR5QSZgdnGefDo4ho9ZGXKDAkIJJRSSo0SSAAAAABRkoQAEJQiQSoJRIAhECAAAAAAAASCSSCIA
+
+# Saved Loadout: АРМС АОЕ
+# talents=BcEAR5QSZgdnGefDo4ho9ZGXKDAkIJJRSSo0SSAAAAABRkoQAEJQiQSoJRIAhECAAAAAAAASCSSCIA
+# Saved Loadout: АРМС ДРАКОН
+# talents=BcEAR5QSZgdnGefDo4ho9ZGXKDAkIJJRSSo0SSAAAAABRkoQAEJQiQSoJRIAhECAAAAAAAASCSSCIA
+# Saved Loadout: АОЕ
+# talents=BcEAR5QSZgdnGefDo4ho9ZGXKDQKRikkEkko0SkEAAAAEERiCJEFRAJQSoIRIAhEAAAAAAAAgElEAIE
+
+head=,id=195498,gem_id=192955,bonus_id=6652/7935/8825/8820/7980/1485/8767
+neck=,id=200970,gem_id=192981/192928/192928,bonus_id=8783/8782
+shoulder=,id=200428,bonus_id=7979/6652/8826/1472/8767
+back=,id=195511,enchant_id=6589,bonus_id=6652/8825/8819/7980/1485/8767
+chest=,id=200742,enchant_id=6621,bonus_id=8821/8820/6652/1478/8767
+shirt=,id=6125
+wrist=,id=195533,enchant_id=6574,bonus_id=6652/7937/7979/8821/8819/1472/8767
+hands=,id=200425,bonus_id=7979/41/8829/1472/8767
+waist=,id=199439,bonus_id=8943/6652/7936/8822/8818/1507/8767
+legs=,id=198741,enchant_id=6492,bonus_id=1485
+feet=,id=199435,enchant_id=6606,bonus_id=8943/6652/8822/8818/1507/8767
+finger1=,id=194082,enchant_id=6556,gem_id=192944,bonus_id=8837/8838/4785/8780/8802/8790/8850,crafted_stats=49/32
+finger2=,id=192999,enchant_id=6556,gem_id=192955,bonus_id=8836/8840/8902/8780/8802/8793/8932/8960,crafted_stats=40/32
+trinket1=,id=201808,bonus_id=8999/6652/9009/1472/8767
+trinket2=,id=110012,bonus_id=7977/6652/9144/8966/3277/8767
+main_hand=,id=190516,enchant_id=6642,bonus_id=8836/8840/8902/8801/8845/8932/8960,crafted_stats=40/32
+
+### Gear from Bags
+#
+# Шлем объездчика драконов (372)
+# head=,id=198581,bonus_id=8978/6652/7937/1485/5854/8767
+#
+# Оплечье объездчика драконов (376)
+# shoulder=,id=198586,bonus_id=8978/6652/8813/1478/5865/8767
+#
+# Накидка объездчика драконов (369)
+# back=,id=198960,bonus_id=8978/6652/8815/1472/5864/8766
+#
+# Кираса объездчика драконов (369)
+# chest=,id=198582,enchant_id=6620,bonus_id=8978/6652/8816/1472/5864/8766
+#
+# Панцирь ходячей горы (382)
+# chest=,id=200423,bonus_id=7982/6652/8830/1459/8767
+#
+# Тяжелые наручи объездчика драконов (372)
+# wrist=,id=198588,bonus_id=8978/43/7937/8815/1475/5864/8767
+#
+# Рукавицы объездчика драконов (379)
+# hands=,id=198584,bonus_id=8978/6652/1485/5861/8767
+#
+# Ремень объездчика драконов (369)
+# waist=,id=198587,bonus_id=8978/6652/7936/8814/1475/5861/8766
+#
+# Набедренники объездчика драконов (372)
+# legs=,id=198585,bonus_id=8978/6652/8816/1475/5864/8767
+#
+# Башмаки объездчика драконов (369)
+# feet=,id=198583,bonus_id=8978/6652/8814/1472/5864/8766
+#
+# Пылающее кольцо (372)
+# finger1=,id=200159,enchant_id=6555,bonus_id=42/7936/1475/5864/8767
+#
+# Горящая сущность (382)
+# trinket1=,id=200217,bonus_id=6652/1485/5864/8767
+#
+# Идол Хранительницы жизни (386)
+# trinket1=,id=193003,bonus_id=8836/8840/8902/8800
+#
+# Большой меч объездчика драконов (382)
+# main_hand=,id=199085,bonus_id=8978/6652/1485/5864/8767
+#
+# Пламя Инферна (382)
+# main_hand=,id=200150,bonus_id=6652/1485/5864/8767
+#
+# Кулачный щит каменного стража (376)
+# off_hand=,id=197954,bonus_id=6652/1478/5865/8767
+
+# Checksum: f4eb5dc6
